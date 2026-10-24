@@ -1,0 +1,12 @@
+{
+  "host": "haven.moviethingy.xyz",
+  "state": "ok",
+  "code": "online",
+  "message": "The community server is online.",
+  "since": "2026-10-21T17:29:53.446Z",
+  "checkedAt": "2026-10-24T14:04:31.766Z",
+  "certificateExpires": "2027-01-15T15:56:09.000Z",
+  "certificateIssuer": "Let's Encrypt",
+  "streak": 276,
+  "alerted": "online"
+}
